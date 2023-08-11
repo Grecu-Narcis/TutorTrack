@@ -15,7 +15,8 @@ Welcome to the Tutorial Management Application built using C++ and the Qt framew
 
 1. Clone this repository to your local machine.
 2. Open the project in your preferred C++ development environment (e.g., Qt Creator).
-3. Build and run the application.
+3. Add the dependencies for database (i.e. download C files for SQLite from [Official Website](https://www.sqlite.org/index.html)). 
+4. Build and run the application.
 
 ## Usage
 
