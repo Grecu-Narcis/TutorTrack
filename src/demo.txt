@@ -1,0 +1,10 @@
+Learn C++,some indian guy,www.youtube.com,1000,30,15
+Make C++ easy,Learn Together,www.youtube.com,657,120,0
+Intro in C++,Tech with Tim,www.youtube.com,2314,45,35
+C++ for beginners,Grecu Narcis,www.freecodecamp.com,1000,72,55
+Advanced C++,Bocicor Iuliana,www.cs.ubbcluj.ro,15240,90,15
+Learn C++ with me!,Mark Zuckenberg,www.facebook.com,12,15,15
+C++ snake game,Playin Around,www.youtube.com,512,10,15
+Poweful C++ tricks,Josh the Bosh,www.youtube.com,1000,30,15
+Algorithms in C++,another indian guy,www.youtube.com,4234,30,15
+Hacking with C++,Cool guy,www.youtube.com,5103,140,23
