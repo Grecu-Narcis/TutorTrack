@@ -27,10 +27,6 @@ Welcome to the Tutorial Management Application built using C++ and the Qt framew
 
 Contributions are welcome! If you find any issues or want to enhance the application, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 For any inquiries or suggestions, please contact [Grecu Narcis](mailto:narcisgrecu07@gmail.com).
